@@ -6,4 +6,8 @@ For use of the Visual Productions streaming team within the Mayflower Public Bro
 
 DOWNLOAD [OBS](https://obsproject.com/download)
 
-Install https://obsproject.com/forum/resources/waveform.1423/
+# STEP 2
+
+INSTALL [WAVEFORM VISUALIZER](https://obsproject.com/forum/resources/waveform.1423/)
+
+INSTALL 
